@@ -27,6 +27,7 @@
 */
 
 //snakes and ladders implementation in C
+//This is a copied code.
 
 #include <stdio.h>
 #include <time.h>
